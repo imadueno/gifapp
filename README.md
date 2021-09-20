@@ -1,5 +1,7 @@
 # React App - gifapp
 
+Apliación creada con `npx create-react-app` para consumir API de giphy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
